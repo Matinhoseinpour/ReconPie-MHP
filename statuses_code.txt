@@ -11,3 +11,7 @@ status and status_code of the http://www.google.com/history/optout?hl=en are -->
 status and status_code of the https://google.com/preferences?hl=en are --> Success : 200
 status and status_code of the https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ are --> Success : 200
 status and status_code of the https://google.com/advanced_search?hl=en-IR&authuser=0 are --> Success : 200
+status and status_code of the https://google.com/intl/en/ads/ are --> Success : 200
+status and status_code of the https://google.com/intl/en/about.html are --> Success : 200
+status and status_code of the https://google.com/intl/en/policies/privacy/ are --> Success : 200
+status and status_code of the https://google.com/intl/en/policies/terms/ are --> Success : 200

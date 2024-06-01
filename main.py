@@ -4,6 +4,7 @@ from urllib.parse import urlparse, urljoin
 import dns.resolver
 import socket
 import threading
+# from wappalyzer import Wappalyzer, WebPage
 import re
 import whois
 import tldextract

@@ -11,3 +11,7 @@ ip addresses of the http://www.google.com/history/optout?hl=en are : 216.239.38.
 ip addresses of the https://google.com/preferences?hl=en are : 216.239.38.120
 ip addresses of the https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ are : 173.194.76.84
 ip addresses of the https://google.com/advanced_search?hl=en-IR&authuser=0 are : 216.239.38.120
+ip addresses of the https://google.com/intl/en/ads/ are : 216.239.38.120
+ip addresses of the https://google.com/intl/en/about.html are : 216.239.38.120
+ip addresses of the https://google.com/intl/en/policies/privacy/ are : 216.239.38.120
+ip addresses of the https://google.com/intl/en/policies/terms/ are : 216.239.38.120
