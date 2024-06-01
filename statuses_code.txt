@@ -1,0 +1,13 @@
+status and status_code of the https://www.google.com/imghp?hl=en&tab=wi are --> Success : 200
+status and status_code of the https://maps.google.com/maps?hl=en&tab=wl are --> Success : 200
+status and status_code of the https://www.google.com/imghp?hl=en&tab=wi are --> Success : 200
+status and status_code of the https://maps.google.com/maps?hl=en&tab=wl are --> Success : 200
+status and status_code of the https://play.google.com/?hl=en&tab=w8 are --> Success : 200
+status and status_code of the https://news.google.com/?tab=wn are --> Success : 200
+status and status_code of the https://mail.google.com/mail/?tab=wm are --> Success : 200
+status and status_code of the https://drive.google.com/?tab=wo are --> Success : 200
+status and status_code of the https://www.google.com/intl/en/about/products?tab=wh are --> Success : 200
+status and status_code of the http://www.google.com/history/optout?hl=en are --> Success : 200
+status and status_code of the https://google.com/preferences?hl=en are --> Success : 200
+status and status_code of the https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ are --> Success : 200
+status and status_code of the https://google.com/advanced_search?hl=en-IR&authuser=0 are --> Success : 200

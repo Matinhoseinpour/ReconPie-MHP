@@ -1,0 +1,13 @@
+ip addresses of the https://www.google.com/imghp?hl=en&tab=wi are : 216.239.38.120
+ip addresses of the https://maps.google.com/maps?hl=en&tab=wl are : 10.202.8.214
+ip addresses of the https://www.google.com/imghp?hl=en&tab=wi are : 216.239.38.120
+ip addresses of the https://maps.google.com/maps?hl=en&tab=wl are : 10.202.8.214
+ip addresses of the https://play.google.com/?hl=en&tab=w8 are : 10.202.8.213
+ip addresses of the https://news.google.com/?tab=wn are : 142.250.185.142
+ip addresses of the https://mail.google.com/mail/?tab=wm are : 142.250.186.37
+ip addresses of the https://drive.google.com/?tab=wo are : 142.250.186.110
+ip addresses of the https://www.google.com/intl/en/about/products?tab=wh are : 216.239.38.120
+ip addresses of the http://www.google.com/history/optout?hl=en are : 216.239.38.120
+ip addresses of the https://google.com/preferences?hl=en are : 216.239.38.120
+ip addresses of the https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ are : 173.194.76.84
+ip addresses of the https://google.com/advanced_search?hl=en-IR&authuser=0 are : 216.239.38.120
